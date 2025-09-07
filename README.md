@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="left">Hi, I’m priyanshu!</h1>
 
-<!--
-**pranshu098/pranshu098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+“Welcome to my GitHub! I’m currently learning Artificial Intelligence, Machine Learning, and building my problem-solving skills through Data Structures & Algorithms in Java.”
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach out to me:
+[![Email](https://img.shields.io/badge/Email-kumarpriyanshu37530@gmail.com-blue)](mailto:kumarpriyanshu37530@gmail.com) 
+
+
+
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranshu098&show_icons=true&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu098&theme=codeSTACKr&hide_border=false&langs_count=5" />
+</p>
